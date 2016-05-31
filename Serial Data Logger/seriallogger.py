@@ -21,11 +21,11 @@ time.sleep(1) #give a one second delay so we don't get garbled data
 
 x = 0
 while 1:
-	if x > 5:	
+	if x > 15:	
 		line = ser.readline()
 		print(line)
 		file.write(line)
 	x += 1
-	time.sleep(.1)
+	#time.sleep(.01) #this is only really necessary when printing to the console
 	
 file.close()
