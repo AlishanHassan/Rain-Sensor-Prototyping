@@ -12,5 +12,6 @@
 
 ### June 8, 2016
 1. Need to find a way to hook up the piezoelectric in a way that doesn't damage it. Durability isn't its strong suit. (I had to solder a new wire on the old one a few days back, maybe thicker wires are a meaningful upgrade?).  
+2. Potential Milestone: Can we indicate that rain has begun falling 10 seconds after it starts? 
 
 ***
