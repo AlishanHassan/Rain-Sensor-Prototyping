@@ -12,6 +12,10 @@
 
 ### June 8, 2016
 1. Need to find a way to hook up the piezoelectric in a way that doesn't damage it. Durability isn't its strong suit. (I had to solder a new wire on the old one a few days back, maybe thicker wires are a meaningful upgrade?).  
-2. Potential Milestone: Can we indicate that rain has begun falling 10 seconds after it starts? 
+2. Potential Milestone: Can we indicate that rain has begun falling 10 seconds after it starts?
+3. Bought a few parts. Two PVC pipes, one 3/4", one 1" at 5 feet long each. Carriage bolt as a potential cap  (by cutting off the head of the bolt), PVC cement, and a sprinkler.
+4. The 3/4" pipe is basically perfect for the piezo element, which slides right in. Just needs a little bit of adhesive on the edges. The 1" tube could possibly be used for added insulation around the 3/4" tube (needs a bit of sanding). 
+5. Carriage bolt's acoustics are questionable. Need to look into machining a custom aluminum cap ASAP. 
+6. Oscillating sprinkler was cheap and, per reviews, breaks easily. That said, we don't need oscaillation, so this should be fine. 
 
 ***
