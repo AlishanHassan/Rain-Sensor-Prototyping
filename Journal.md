@@ -19,3 +19,12 @@
 6. Oscillating sprinkler was cheap and, per reviews, breaks easily. That said, we don't need oscaillation, so this should be fine. 
 
 ***
+
+### June 9, 2016
+1. Cut the PVC tubing down to size. Will lengthen the wires on the piezo element tomorrow when I bring my heat gun. 
+2. Went to Lacy, but nobody was there. Need to get a few tips on how to machine stainless steel. 
+3. Considering using 316 Stainless Steel (if that's not available, 440 Stainless Steel) for the cap. Decent corrosion resistance, but cutting it might be annoying. 
+4. Look into cutting a Stainless Steel ball in half to make a dome. See [here](https://www.onlinemetals.com/merchant.cfm?id=1425&step=2&top_cat=1) for a bag of them. Need to get a 1" dimater to fit over the 3/4" PVC tube. 
+5. Vaisala used stainless steel for the cap, the master's thesis used PVC for the final revision, noting better acoustic capabilities than aluminum. So look into PVC as well (if that's easier to find). 
+
+***
