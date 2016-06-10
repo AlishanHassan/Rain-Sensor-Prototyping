@@ -28,3 +28,13 @@
 5. Vaisala used stainless steel for the cap, the master's thesis used PVC for the final revision, noting better acoustic capabilities than aluminum. So look into PVC as well (if that's easier to find). 
 
 ***
+
+### June 10, 2016
+1. Brought the sheetmetal from the first prototype. It's developing rust, so it's probbably not the one we want to keep, but it's something to work with while I figure out how to design the final cap. 
+2. Talked to Lewis about how to machine a dome. Would have to use a lathe with the cutting tool. Not ideal, but it can work. 
+3. He can provide the material (considering it isn't much). He has aluminum, nylon, acrylic, and brass stock (all solid tubes). Stainless steel can be used, but it's pretty hard to machine.
+4. Impacts on the side of PVC tube aren't too bad (no amplifier). 
+5. A single tap actually produces a reasonable signal. Sampling rate is more than enough. 
+6. Need to waterproof the electronics. One of my project boxes is the perfect size for the breadboard. Just need to dremel two holes, one for the USB cable, the other for the sensor wires. (Ah, "dremel", another proper noun used regularly as a verb...)
+7. Taking the sprinkler home to see how it fares as a rain machine. Don't think it's wise to get the sensor wet until it's all sealed off. 
+8. Also need to find an adhesive to smoothly attached the piezo element to the metal cap. PVC cement and hot glue are probably a no go. 
