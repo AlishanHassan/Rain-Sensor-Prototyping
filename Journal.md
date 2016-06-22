@@ -38,3 +38,12 @@
 6. Need to waterproof the electronics. One of my project boxes is the perfect size for the breadboard. Just need to dremel two holes, one for the USB cable, the other for the sensor wires. (Ah, "dremel", another proper noun used regularly as a verb...)
 7. Taking the sprinkler home to see how it fares as a rain machine. Don't think it's wise to get the sensor wet until it's all sealed off. 
 8. Also need to find an adhesive to smoothly attached the piezo element to the metal cap. PVC cement and hot glue are probably a no go. 
+
+***
+
+### June 21, 2016
+1. Finally back -_-
+2. Superglued the piezo element to the metal cap and the metal cap to the PVC tube.
+3. Seems to work fine, and the data picked up is reasonable (just need to play around with amplification settings, current data has no amplificiation). 
+4. I tried to use a thin layer of glue, but we'll have to make sure there's some consistency in this step when we manufacture a lot of them. 
+5. New set of parts should arrive tomorrow. 
