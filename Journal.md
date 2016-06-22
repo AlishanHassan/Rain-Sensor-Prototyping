@@ -48,3 +48,10 @@
 4. I tried to use a thin layer of glue, but we'll have to make sure there's some consistency in this step when we manufacture a lot of them. 
 5. New set of parts should arrive tomorrow. 
 6. Also tested the sprinkler a few days back. Seems to hit 12 feet. Goal is 15 feet, so placing it on a 3 foot high table, or something, should do the job. 
+
+***
+
+### June 22, 2016
+1. Cleaned up the breadboard, so now it's much nicer and can be stashed in the project box. 
+![Cleaned Breadboard](Photos/breadboard_cleaned.jpg?raw=true "Cleaned Breadboard")
+2. Need to dremel the project box for the USB port, holes for piezo wiring and tipping bucket wiring and possibly an LED hole.
