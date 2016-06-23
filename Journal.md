@@ -58,3 +58,10 @@
 3. So, this is odd, the new breadboard, without the amp hooked up, doesn't seem to sit near 0 when there's no tapping. It's around 60-70, which is what I used to get when the amp was hooked up. The only change I made was reducing the delay from 5ms to 0ms. Let's see if reverting that makes a difference. 
 4. Yeah, dropping it to a 5ms delay brought the numbers back down. Without a delay, the base values are much larger, but it does dip to zero after a tap, before returning back to 60-70 stable. Hmm, odd. It doesn't seem like a zero delay is necessary anyway, since it isn't polling any more useful data compared to 5ms. So, I'll be sticking to 5ms. 
 5. I brought a metal lid to attach the PVC tube to, but I don't know if that's the best idea because it's lacking in sound insultation. Need to find some plastic or wood.
+
+***
+
+### June 23, 2016
+1. Next revision needs to ditch the AD623 in favor of some op-amp. I don't think it's fast enough. I tried a second AD623, and the results were the same. Only need very mild amplifification as it is, and it should only be necessary for drizzles. 
+2. The acoustics of that metal lid aren't perfect, but without the amp I'm getting a reading of, at most ~70, from the piezo element. So, that shouldn't be a big deal, but definitely use something better for the next revision. 
+3. Went ahead and hot glued the PVC tube to the lid. Took it outside, since it's raining, to see how it did. Seems perfectly fine. Well sealed and stable.
