@@ -65,5 +65,8 @@
 1. Next revision needs to ditch the AD623 in favor of some op-amp. I don't think it's fast enough. I tried a second AD623, and the results were the same. Only need very mild amplifification as it is, and it should only be necessary for drizzles. 
 2. The acoustics of that metal lid aren't perfect, but without the amp I'm getting a reading of, at most ~70, from the piezo element. So, that shouldn't be a big deal, but definitely use something better for the next revision. 
 3. Went ahead and hot glued the PVC tube to the lid. Took it outside, since it's raining, to see how it did. Seems perfectly fine. Well sealed and stable.
- 
 ![Prototype just after the rain](Photos/prototype_after_rain.jpg?raw=true "Prototype just after the rain")
+4. Finished putting the electronics in a project box. Slightly tight on the USB port, but does the job. 
+![Black Box](Photos/black_box.jpg?raw=true "Black Box")
+5. AccuWeather said it was about to rain - it didn't. Spent some time outside waiting for the rain to begin, but gave up. Rain is in the forecast tomorrow, though. 
+![Waiting for rain](Photos/waiting_for_rain.jpg?raw=true "Waiting for rain")
