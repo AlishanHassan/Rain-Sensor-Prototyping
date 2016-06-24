@@ -67,6 +67,7 @@
 3. Went ahead and hot glued the PVC tube to the lid. Took it outside, since it's raining, to see how it did. Seems perfectly fine. Well sealed and stable. 
 
 ![Prototype just after the rain](Photos/prototype_after_rain.jpg?raw=true "Prototype just after the rain")
+
 4. Finished putting the electronics in a project box. Slightly tight on the USB port, but does the job. 
 ![Black Box](Photos/black_box.jpg?raw=true "Black Box")
 5. AccuWeather said it was about to rain - it didn't. Spent some time outside waiting for the rain to begin, but gave up. Rain is in the forecast tomorrow, though. 
