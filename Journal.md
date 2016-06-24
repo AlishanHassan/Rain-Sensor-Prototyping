@@ -70,3 +70,10 @@
 ![Black Box](Photos/black_box.jpg?raw=true "Black Box")
 5. AccuWeather said it was about to rain - it didn't. Spent some time outside waiting for the rain to begin, but gave up. Rain is in the forecast tomorrow, though. 
 ![Waiting for rain](Photos/waiting_for_rain.jpg?raw=true "Waiting for rain")
+
+***
+
+### June 24, 2016
+1. Doesn't look like it's going to rain. There's a hose outside Rice and I need to figure out how to get permission to use it. In the mean time, I'll take the whole setup home this weekend and try to test it with the sprinkler. 
+2. Doing a little materials research today for the improved cap. The flat cap is definitely not ideal just based on the quick rain test I did yesterday. Brass seems like it could be OK. I don't have the exact specs of what materials we have to work with, though, which doesn't help. Depending on the grade of nylon we have available, we might be able to get similar performance to the PVC used in the paper. But, again, don't have exact specs. 
+3. Maybe what I really need to do is get elasticity data for these materials? 
