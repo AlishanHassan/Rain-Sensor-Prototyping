@@ -87,3 +87,4 @@
 ![Cap Oxidation](Photos/cap_oxidation.jpg?raw=true "Cap Oxidation")
 2. This was to be expected, but I was hoping the WD-40 would have helped. You normally apply a thin layer to your tools to prevent oxidation, but I suppose it's not suitable for this application. Guess this means I need to expedite getting the next cap built. 
 3. For the record, according to the label this is WELD STL - SHT (22GA).  So, just a 22 gauge sheet of mild weld steel. 
+4. OK, taking the whole system home to test it with a sprinkler. Fingers crossed...
