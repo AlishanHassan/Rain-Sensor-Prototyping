@@ -77,3 +77,5 @@
 1. Doesn't look like it's going to rain. There's a hose outside Rice and I need to figure out how to get permission to use it. In the mean time, I'll take the whole setup home this weekend and try to test it with the sprinkler. 
 2. Doing a little materials research today for the improved cap. The flat cap is definitely not ideal just based on the quick rain test I did yesterday. Brass seems like it could be OK. I don't have the exact specs of what materials we have to work with, though, which doesn't help. Depending on the grade of nylon we have available, we might be able to get similar performance to the PVC used in the paper. But, again, don't have exact specs. 
 3. Maybe what I really need to do is get elasticity data for these materials? 
+4. Took a heat gun to the PVC to try and shape it into a cap. Too much smoke - gave up...for now. 
+5. FYI: Brass E = 102 - 105 GPa | Nylon-6 E = 2 - 4 GPa | Aluminum E = 69 GPa | Acrylic E = 3.2 GPa 
