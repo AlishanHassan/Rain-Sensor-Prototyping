@@ -79,3 +79,11 @@
 3. Maybe what I really need to do is get elasticity data for these materials? 
 4. Took a heat gun to the PVC to try and shape it into a cap. Too much smoke - gave up...for now. 
 5. FYI: Brass E = 102 - 105 GPa | Nylon-6 E = 2 - 4 GPa | Aluminum E = 69 GPa | Acrylic E = 3.2 GPa 
+
+***
+
+### June 25, 2016
+1. Uh oh, looks like we've got some oxidation. 
+![Cap Oxidation](Photos/cap_oxidation.jpg?raw=true "Cap Oxidation")
+2. This was to be expected, but I was hoping the WD-40 would have helped. You normally apply a thin layer to your tools to prevent oxidation, but I suppose it's not suitable for this application. Guess this means I need to expedite getting the next cap built. 
+3. For the record, according to the label this is WELD STL - SHT (22GA).  So, just a 22 gauge sheet of mild weld steel. 
