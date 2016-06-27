@@ -88,3 +88,10 @@
 2. This was to be expected, but I was hoping the WD-40 would have helped. You normally apply a thin layer to your tools to prevent oxidation, but I suppose it's not suitable for this application. Guess this means I need to expedite getting the next cap built. 
 3. For the record, according to the label this is WELD STL - SHT (22GA).  So, just a 22 gauge sheet of mild weld steel. 
 4. OK, taking the whole system home to test it with a sprinkler. Fingers crossed...
+
+***
+
+### June 26, 2016
+1. Hooked up the sprinkler and let it rain (also mistyped "sprinkler" in the git commit). 
+2. Data, on first inspection, looks semi-promising. I ran the gauge side by side with the tipping bucket. 
+3. The main issue is that the oscillating sprinkler is difficult to work it. I'm going to have to break the gears to prevent it from oscillating. 
