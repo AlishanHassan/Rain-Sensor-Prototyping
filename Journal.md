@@ -95,3 +95,17 @@
 1. Hooked up the sprinkler and let it rain (also mistyped "sprinkler" in the git commit). 
 2. Data, on first inspection, looks semi-promising. I ran the gauge side by side with the tipping bucket. 
 3. The main issue is that the oscillating sprinkler is difficult to work it. I'm going to have to break the gears to prevent it from oscillating. 
+
+***
+
+### June 27, 2016
+1. It rained today, yay!
+2. Hooked up both the piezo guage and the tipping bucket, left them outside with the laptop in the car (to avoid getting it wet) and recorded data for over 25 minutes. 
+![June 27 Rain Test](Photos/jun27_rain_test.jpg?raw=true "June 27 Rain Test")
+3. The rain was quite light. In fact, in those 25 minutes, the tipping bucket didn't even tip once. I tried to store the amount of water that it collected, but it tipped right when I opened the bucket. I salvaged what I could, first transferring it to a frisbee (the closest thing to a container I had) and then to a water bottle with a funnel. Sadly, some water was lost, some water was introduced, so this is not a reliable measure. We can, however, say we were just barely shy of one tip. 
+4. The other issue: with the spinkler's heavy "rain", the readings were relatively usable. Unfortunately, with this light rain (it's considerably heavier than a drizzle), the signal was quite weak. These readings are all done without an amplifier, and this shows that we need an amplifier. Back to the drawing board there.
+5. I think I'm going to run to Radio Shack tomorrow and grab the best op-amps they have and see if they fair better. 
+6. It does not seem to be affected much by other sounds, considering how weak the signal is without the amp. 
+7. Project box is fairing well, no malfunctions with the electronics so far. Keeping the laptop in the car is a great idea. 
+8. Hot glue failed after yesterday's sprinkler test, had to tape it down temporarily. Final revision, obviously, will use more permanant adhesive. I just used hot glue because I knew I could take it apart if need be. It was, nevertheless, weaker than expected. 
+9. Need to get a graduated cylinder to get more precise rainfall measurements. The tipping bucket is still useful, but the low resolution is going to be problematic. Hopefully I can find one locally by tomorrow. 
