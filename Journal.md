@@ -109,3 +109,9 @@
 7. Project box is fairing well, no malfunctions with the electronics so far. Keeping the laptop in the car is a great idea. 
 8. Hot glue failed after yesterday's sprinkler test, had to tape it down temporarily. Final revision, obviously, will use more permanant adhesive. I just used hot glue because I knew I could take it apart if need be. It was, nevertheless, weaker than expected. 
 9. Need to get a graduated cylinder to get more precise rainfall measurements. The tipping bucket is still useful, but the low resolution is going to be problematic. Hopefully I can find one locally by tomorrow. 
+
+***
+
+### June 28, 2016
+1. Both Radio Shacks in Charlottesville have closed. :( It really is the end of an era. 
+2. The TR-525USW (which is the tipping bucket we're using) measures .01" (8.23 mL) per tip. So we had less than .01" of rain in those 25 minutes?
