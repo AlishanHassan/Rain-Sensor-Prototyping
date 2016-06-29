@@ -115,3 +115,9 @@
 ### June 28, 2016
 1. Both Radio Shacks in Charlottesville have closed. :( It really is the end of an era. 
 2. The TR-525USW (which is the tipping bucket we're using) measures .01" (8.23 mL) per tip. So we had less than .01" of rain in those 25 minutes?
+3. You see this? It's raining in this picture while the sun is out. Sadly, I noticed it too late, so no data was collected. 
+![It's sunny and raining](Photos/sunny_rain.jpg?raw=true "It's sunny and raining")
+4. Ordered a graduated cylinder, some eye droppers, and an analog rain gauge. "Guaranteed delivery" by July 1.
+5. Also purchased some LM741s to test. This amplification problem is becoming really irritating. 
+6. Used some actual water drops for testing today. The voltage is tiny and really needs to be amplified cleanly without the weird time shifts I'm seeing.
+7. I've reconnected the AD623 and, this time, need to give it more than a ~2x gain. Right now, this thing seems like it's going to do fine with heavier rainfall but, again, light rainfall is a problem. 
