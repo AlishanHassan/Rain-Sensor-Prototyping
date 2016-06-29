@@ -127,3 +127,4 @@
 ### June 29, 2016
 1. Based on diagrams of how oscillating sprinklers work and how this one is assembled, breaking the oscillation may prevent it from working it all. I think I just need to implement some resistance so that the water pressure is incapable of making it oscillate. 
 2. Just an observation...if I had the proper connector for a hose, I could convert one of the PVC pipes to a sprinkler pretty easily. 
+3. Ugh, this amplifier is driving me nuts. [This](Serial Data Logger/data_20160629_154858 - towel drops no amp.xlsx) data log shows that the water drops are producing a decentish voltage, even though they're not at terminal velocity (I dropped them from 8-12 inches above the gauage). These are large drops, though. The data with the amplifier is basically useless. 
