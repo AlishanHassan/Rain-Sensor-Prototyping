@@ -128,3 +128,7 @@
 1. Based on diagrams of how oscillating sprinklers work and how this one is assembled, breaking the oscillation may prevent it from working it all. I think I just need to implement some resistance so that the water pressure is incapable of making it oscillate. 
 2. Just an observation...if I had the proper connector for a hose, I could convert one of the PVC pipes to a sprinkler pretty easily. 
 3. Ugh, this amplifier is driving me nuts. [This](Serial Data Logger/data_20160629_154858 - towel drops no amp.xlsx) data log shows that the water drops are producing a decentish voltage, even though they're not at terminal velocity (I dropped them from 8-12 inches above the gauage). These are large drops, though. The data with the amplifier is basically useless. 
+4. Matlab key expired...even though I have been using it for three years without issue. Need to go to the bookstore tomorrow to get an updated key. 
+5. Further droplet testing shows that an easy way for the water to run off is necessary. 
+6. Did some rudimentary data analysis in Excel. The one conclusion so far: the relationship between piezo voltage and rainfall totals is not linear (which was expected).
+7. Hopefully when the LM741s arrrive, we'll be able to make a better amplifier setup. If those don't do the job, the OPA337 looks promising. 
