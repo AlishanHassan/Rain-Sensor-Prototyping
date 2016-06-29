@@ -121,3 +121,9 @@
 5. Also purchased some LM741s to test. This amplification problem is becoming really irritating. 
 6. Used some actual water drops for testing today. The voltage is tiny and really needs to be amplified cleanly without the weird time shifts I'm seeing.
 7. I've reconnected the AD623 and, this time, need to give it more than a ~2x gain. Right now, this thing seems like it's going to do fine with heavier rainfall but, again, light rainfall is a problem. 
+
+***
+
+### June 29, 2016
+1. Based on diagrams of how oscillating sprinklers work and how this one is assembled, breaking the oscillation may prevent it from working it all. I think I just need to implement some resistance so that the water pressure is incapable of making it oscillate. 
+2. Just an observation...if I had the proper connector for a hose, I could convert one of the PVC pipes to a sprinkler pretty easily. 
