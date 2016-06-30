@@ -2,3 +2,6 @@ MCP41100
 http://www.instructables.com/id/Digital-Potentiometer-MCP41100-and-Arduino/?ALLSTEPS
 http://www.arduinoslovakia.eu/page/digitalny-potenciometer-mcp41100
 https://community.particle.io/t/need-support-for-mcp4142-104e-sn-potentiometer/10417/26
+
+AD623
+http://electronics.stackexchange.com/questions/32405/drift-and-flipping-in-instrumentation-amplifier-reading-thermistor
