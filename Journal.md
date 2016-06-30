@@ -143,3 +143,4 @@
 4. Built a quick voltage divider. I have a 4 volt input and a .5 volt output. This is how I'm going to test the AD623 and the op-amps.
 5. Thinking of buying [this](http://www.mouser.com/search/ProductDetail.aspx?R=0virtualkey0virtualkeyMO095804-1) microphone. 
 6. Also holding off on cutting the remaining PVC tubes - I can't find the dust masks. (Seriously, inhaling this stuff is really unpleasant). 
+7. Some materials to consider: rubber (like a balloon, but more durable), thin plastic, aluminum foil that doesn't tear (so, somewhat thick aluminum foil?). Also, my cursor disappeared. -_- 
