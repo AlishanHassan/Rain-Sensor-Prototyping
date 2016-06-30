@@ -133,3 +133,10 @@
 6. Did some rudimentary data analysis in Excel. The one conclusion so far: the relationship between piezo voltage and rainfall totals is not linear (which was expected).
 7. Hopefully when the LM741s arrrive, we'll be able to make a better amplifier setup. If those don't do the job, the OPA337 looks promising. 
 8. Based on materials properties, I'm going to go ahead and test Nylon and Aluminum. Nylon, because its properties are quite close to PVC (Young's Modulus is nearly identical), and since the master's thesis used PVC, this might be a good option. Aluminum should be a good control (it's the intuitive choice, yes?) and the leap of faith choice. Don't have to worry about oxidation with either of them. I am enticed by brass (mostly because everyone praises how great it is to machine), but I'm not seeing benefits over aluminum. It costs more, too (http://dmsshreddinginc.com/current-prices-2/). Hopefully, tomorrow morning, I can take both to the lathe. 
+
+***
+
+### June 30, 2016
+1. Quick note, the ceramic capacitor across pins 5 and 7 on the AD623 is .1 microfarads. 
+2. Also, looks like we need to buiild a dozen or so prototypes. Have to test multiple materials and take thickness into consideration.
+3. Purchasing microphones to see how they do as an alternative to the piezo element. Possibly accelerometers as well, though those are active, not passive, and will require a power source. 
