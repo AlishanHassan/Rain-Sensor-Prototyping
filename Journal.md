@@ -149,3 +149,8 @@
 
 ### July 1, 2016
 1. AD623 seems to working fine with dual supply setup. With a .1 volt input signal, the outputs are as expected (if slightly high).
+2. Shipment arrived and I've begun testing the op-amps.
+3. Shipment also contained a few other things. FOr starters, eye droppers, which work well enough. It has a graduated cylinder, which will help avoid issues when the tipping bucket's resolution isn't adequate. It also has an analog rain gauge, which isn't realtime, but it's reliable and another metric we can use. (Although, it could become realtime if we hook up a camera, or something. 
+4. Nearly done building another prototype with a thin, plastic, cap (the material you would fine in small consumer goods packaging, like a glue stick). Need to grab a couple more tools to finish it, so I should have the finished by tomorrow. 
+5. Going to try to make the AD623 work. The fact it works well enough with a positive and negative supply suggests that it is, potentially, a capable chip. Tomorrow, I'll use the dual supply to run the chip and simply run the output to the Photon. Let's see if the graphs are any better. 
+6. Also need to buy more super glue. 
