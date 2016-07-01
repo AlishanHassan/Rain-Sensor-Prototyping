@@ -144,3 +144,8 @@
 5. Thinking of buying [this](http://www.mouser.com/search/ProductDetail.aspx?R=0virtualkey0virtualkeyMO095804-1) microphone. 
 6. Also holding off on cutting the remaining PVC tubes - I can't find the dust masks. (Seriously, inhaling this stuff is really unpleasant). 
 7. Some materials to consider: rubber (like a balloon, but more durable), thin plastic, aluminum foil that doesn't tear (so, somewhat thick aluminum foil?). Also, my cursor disappeared. -_- 
+
+***
+
+### July 1, 2016
+1. AD623 seems to working fine with dual supply setup. With a .1 volt input signal, the outputs are as expected (if slightly high).
