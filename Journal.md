@@ -154,3 +154,8 @@
 4. Nearly done building another prototype with a thin, plastic, cap (the material you would fine in small consumer goods packaging, like a glue stick). Need to grab a couple more tools to finish it, so I should have the finished by tomorrow. 
 5. Going to try to make the AD623 work. The fact it works well enough with a positive and negative supply suggests that it is, potentially, a capable chip. Tomorrow, I'll use the dual supply to run the chip and simply run the output to the Photon. Let's see if the graphs are any better. 
 6. Also need to buy more super glue. 
+
+***
+
+### July 2, 2016
+1. Didn't do anything today, but consider looking into strong metal foils. Does copper foil tear easily? http://www.quickshipmetals.com/foils/crafting-scrapbooking-foil-coil.html
