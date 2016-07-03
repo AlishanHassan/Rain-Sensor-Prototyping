@@ -159,3 +159,9 @@
 
 ### July 2, 2016
 1. Didn't do anything today, but consider looking into strong metal foils. Does copper foil tear easily? http://www.quickshipmetals.com/foils/crafting-scrapbooking-foil-coil.html
+
+***
+
+### July 3, 2016
+1. Manufacturing the plastic cap variant didn't quite go well. In fact, it cracked due to overly liberal use of the heat gun. Going to try and fix it without having to use another piezo element. 
+2. 
