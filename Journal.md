@@ -164,4 +164,6 @@
 
 ### July 3, 2016
 1. Manufacturing the plastic cap variant didn't quite go well. In fact, it cracked due to overly liberal use of the heat gun. Going to try and fix it without having to use another piezo element. 
-2. 
+2. A signal generator would be really nice to have, but, regardless, I've been testing the dual supply setup with the AD623, but the results from directly hooking up the piezo element are...well, inconclusive. 
+![Testing the dual supply powered AD623](Photos/dual_supply_hack_job.jpg?raw=true "Testing the dual supply powered AD623")
+3. As of right now the signal is much too strong, and, honestly, I'm not sure it's detecting the water droplets very well. 
