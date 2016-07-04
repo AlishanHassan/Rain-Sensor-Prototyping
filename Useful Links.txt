@@ -5,3 +5,6 @@ https://community.particle.io/t/need-support-for-mcp4142-104e-sn-potentiometer/1
 
 AD623
 http://electronics.stackexchange.com/questions/32405/drift-and-flipping-in-instrumentation-amplifier-reading-thermistor
+
+Ampfliers in General:
+http://forum.allaboutcircuits.com/threads/best-way-to-amplify-a-signal-from-a-piezoelectric.12594/
