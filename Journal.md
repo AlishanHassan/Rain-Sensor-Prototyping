@@ -167,3 +167,9 @@
 2. A signal generator would be really nice to have, but, regardless, I've been testing the dual supply setup with the AD623, but the results from directly hooking up the piezo element are...well, inconclusive. 
 ![Testing the dual supply powered AD623](Photos/dual_supply_hack_job.jpg?raw=true "Testing the dual supply powered AD623")
 3. As of right now the signal is much too strong, and, honestly, I'm not sure it's detecting the water droplets very well. 
+
+***
+
+### July 4, 2016
+1. FYI (from Ashby's "Material Selectrion in Mechanical Design"):
+![Acoustic pitch and brightness](Notes/Acoustic_Pitch_and_Brightness.png?raw=true "Acoustic pitch and brightness")
