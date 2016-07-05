@@ -181,3 +181,4 @@
 
 ### July 5, 2016
 1. Caps made of aluminum, nylon, and acrylic should be ready soon. 
+2. ^Scratch that, costs are higher than expected. Need to look into CNC options as well. 
