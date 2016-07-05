@@ -173,3 +173,6 @@
 ### July 4, 2016
 1. FYI (from Ashby's "Material Selectrion in Mechanical Design"):
 ![Acoustic pitch and brightness](Notes/Acoustic_Pitch_and_Brightness.png?raw=true "Acoustic pitch and brightness")
+2. We may want to examine the old prototype again. The acoustics are a lot better. But, again, the issue is that drops that land near the edges sound different from drops that land near the center. But perhaps we could still differentiate it? 
+![The old prototype](Photos/old_prototype.jpg?raw=true "The old prototype")
+3. Found a couple more papers that could be of use. Will read them tonight. 
