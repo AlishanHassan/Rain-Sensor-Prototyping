@@ -176,3 +176,8 @@
 2. We may want to examine the old prototype again. The acoustics are a lot better. But, again, the issue is that drops that land near the edges sound different from drops that land near the center. But perhaps we could still differentiate it? 
 ![The old prototype](Photos/old_prototype.jpg?raw=true "The old prototype")
 3. Found a couple more papers that could be of use. Will read them tonight. 
+
+***
+
+### July 5, 2016
+1. Caps made of aluminum, nylon, and acrylic should be ready soon. 
