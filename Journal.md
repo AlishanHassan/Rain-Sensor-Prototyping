@@ -191,3 +191,4 @@
 3. Also bought some drip pans to harvest the aluminum (which shouldn't tear like plain foil). Acoustics would likely be pretty good. 
 4. Also have Plasti Dip as another way to make a cap.
 5. It was also suggested to simply palce the piezo element on a board and plasti dipping the whole thing. Will be investigating this. 
+6. Microphones should hopefully be here soon. They allow for another way to collect data. Because they are omni-directional, we might be able to set up an array of six of them (six analog inputs on the Photon) and try to calculate where the drop landed. In doing so, we might be able to account for different acoustics on the end of the cap, allowing us to use a larger cap. The greater the surface area, the more flex when a drop lands, which is beneficial.
