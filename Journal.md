@@ -182,3 +182,12 @@
 ### July 5, 2016
 1. Caps made of aluminum, nylon, and acrylic should be ready soon. 
 2. ^Scratch that, costs are higher than expected. Need to look into CNC options as well. 
+
+***
+
+### July 7, 2016
+1. So the main issue with machining the caps isn't that the prototype is going to cost a lot, it's that when we scale to 100s or 1000s of nodes, we don't want to be spending $50 just for a cap. I figured the plan would have been using some sort of manufacturer, like [ths](http://www.alibaba.com/product-detail/cnc-machining-metal-parts-small-hardware_1972023896.html) one on Alibaba. We'll need to figure this out.
+2. If we have to machine all of the parts ourselves, an off the shelf option might very well be the way to go. I bought three different PVC caps and one copper cap from Lowe's to test, and they fit on top of the PVC pipe pretty well. 
+3. Also bought some drip pans to harvest the aluminum (which shouldn't tear like plain foil). Acoustics would likely be pretty good. 
+4. Also have Plasti Dip as another way to make a cap.
+5. It was also suggested to simply palce the piezo element on a board and plasti dipping the whole thing. Will be investigating this. 
