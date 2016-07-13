@@ -206,3 +206,4 @@
 6. Shower head in the basement gave me an idea - why not just have a 15 foot high shower setup outside? 
 7. Second loop is fitting a better scaling function (as opposed to linear) to the data (polynomial instead of linear). 
 8. Ultiamtely, for the third loop, we need better data, because loop 2 isn't looking great. The old setup was oscillating and I have a feeling that, despite being right next to each other, the piezo device and the tipping bucket were not experiencing the same abount of rain. 
+9. Yeah...I don't think the ground truth is really the "truth" at the moment.
