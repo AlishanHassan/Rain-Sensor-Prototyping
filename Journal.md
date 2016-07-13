@@ -192,3 +192,14 @@
 4. Also have Plasti Dip as another way to make a cap.
 5. It was also suggested to simply palce the piezo element on a board and plasti dipping the whole thing. Will be investigating this. 
 6. Microphones should hopefully be here soon. They allow for another way to collect data. Because they are omni-directional, we might be able to set up an array of six of them (six analog inputs on the Photon) and try to calculate where the drop landed. In doing so, we might be able to account for different acoustics on the end of the cap, allowing us to use a larger cap. The greater the surface area, the more flex when a drop lands, which is beneficial.
+
+***
+
+### July 13, 2016
+1. You haven't been posting updates. Shame on you. >_< (talking in second person to myself?)
+2. So, kind of shifting gears during these last few weeks. The focus is to get one good systematic experiment going, with loops in which I modify just one thing at a time and keep on iterating. 
+![Loops](Notes/scaled_loops.jpg?raw=true "Loops") 
+3. I had been building more and more prototypes. That's basically halted except for when I iterate. 
+4. The machined caps are done and they are AWESOME. 
+![Machined Caps](Photos/machined_caps.jpg?raw=true "Machined Caps")
+5. There's a perfect storm outside right now but the setup isn't ready for testing. :(
