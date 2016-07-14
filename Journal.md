@@ -210,3 +210,11 @@
 10. 10 foot PVC pipe actually fit in the car. :D
 11. The new rain machine...inspired by the shower in the basement. Totaly length is about 12 feet. Add the height up to my shoulders and the drops from this should be able to hit terminal velocity. It's game time. 
 ![Rain Machine](Photos/rain_machine.jpg?raw=true "Rain Machine")
+
+***
+
+### July 14, 2016
+1. Got the spigot key and, despite the ferocious mosquitos, the rain machine works. YEAAAAHHH.
+![Raining rain machine](Photos/rain_machine_in_action.jpg?raw=true "Raining rain machine")
+2. That said, the rain it's capable of is quite heavy (and dramatic, great for filming a epic scene with a burning car in the rain), but if you lower the presure too much, you get a leaking stream. So, this isn't ideal for light rain, but, then again, neither was the sprinkler, and certainly not the shower. 
+3. We may just want to test light rain drops with the eye dropper at a later point. 
