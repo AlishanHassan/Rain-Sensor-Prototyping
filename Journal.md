@@ -225,7 +225,7 @@
 1. Oi, oi, oi. Working so much and not posting anything. Theees good or bad?
 2. So, the following are updates from the past few days. 
 3. I had wet sanded the PVC cap to smooth it out, and it turned out pretty well. Had to wear a mask, but that's a minor detail. I only had 150 grit, so not as smooth as it can be, but, honestly, my finger flows over it better than the steel cap.
-![Wet sanded PVC cap - like a boss](Photos/wet_sanded_pvc_cap.jpg?raw=true "Wet sanded PVC cap")
+![Wet sanded PVC cap - like a boss](Photos/wet_sanded_pvc_cap.jpg?raw=true "Wet sanded PVC cap before and after.")
 4. There isn't a whole lot of time left, so I'm not sure this will materialize, but I set up a rig to test an electret microphone. Basically, now, I just hot swap caps and don't have to worry about soldering wires or glueing (can also be spelled "gluing") things together. 
 ![Electret microphone testing rig.](Photos/electret_mic_testing_rig.jpg?raw=true "Sing me a song, you're a singer.")
 5. Went outside to collect better data, now using the rain gauge instead of the sprinkler. Things are much better, but the Photon requires WiFi to work, and the signal is too weak for the poor little Photon to get online. So I had to set up a hotspot. And guess what, that required two phones...one run the hotspot, one to create an ad-hoc network to configure the Photon. Genius. -_-
