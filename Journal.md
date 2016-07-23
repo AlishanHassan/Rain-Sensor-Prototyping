@@ -221,7 +221,7 @@
 
 ***
 
-### July 14, 2016
+### July 21, 2016
 1. Oi, oi, oi. Working so much and not posting anything. Theees good or bad?
 2. So, the following are updates from the past few days. 
 3. I had wet sanded the PVC cap to smooth it out, and it turned out pretty well. Had to wear a mask, but that's a minor detail. I only had 150 grit, so not as smooth as it can be, but, honestly, my finger flows over it better than the steel cap.
@@ -236,3 +236,8 @@
 8. Tried to get rid of the negative voltage with a diode, that didn't actually work. 
 9. I think I actually fixed one issue with the amplifier by using a pull down resistor on the positive signal input. It seems to prevent the slow dissipation issue. It still refuses to register very low signals...which is the exact opposite of what it should be doing. 
 10. Excel has been a pain. Crashes a lot and using Visual Basic is a nightmare. It was sugested that I switch to NumPy. Glad I did and that's what I'm working on. 
+
+***
+
+### July 22, 2016
+1. Note to self: on the second cone data set, ignore the last bucket flip. It seems cohesion on the bucket's mesh is a problem, likely due to the misting coming from the cone setting. Also, remove the first flip on the shower data set - I aimed too closely. It was difficult to maintain a constant height, the weight is just too much for the PVC pipe. I used two clamps, which help, but it's not perfects. Ignore the first cone data set. For the shower data set, there were two points where I managed to maintain the same height. This occured about halfway through. 
