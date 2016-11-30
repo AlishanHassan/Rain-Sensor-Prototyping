@@ -1,10 +1,47 @@
-MCP41100
+MCP41100:
 http://www.instructables.com/id/Digital-Potentiometer-MCP41100-and-Arduino/?ALLSTEPS
 http://www.arduinoslovakia.eu/page/digitalny-potenciometer-mcp41100
 https://community.particle.io/t/need-support-for-mcp4142-104e-sn-potentiometer/10417/26
 
-AD623
+
+AD623:
 http://electronics.stackexchange.com/questions/32405/drift-and-flipping-in-instrumentation-amplifier-reading-thermistor
+
 
 Ampfliers in General:
 http://forum.allaboutcircuits.com/threads/best-way-to-amplify-a-signal-from-a-piezoelectric.12594/
+http://electronics.stackexchange.com/questions/39303/scale-30-50mv-signal-to-0-5v-range
+
+
+General Electronics:
+https://learn.sparkfun.com/tutorials/serial-peripheral-interface-spi
+
+
+Photon Programming:
+https://github.com/mhaack/Photon-PlantMonitor/blob/b48054171e5bea7aacaf600b4323c6856848dddd/plant-monitor.ino
+https://github.com/danwahl/Particle-RF24Network/blob/a1d7152828147c7f09c1c674ff6e128eb5070776/firmware/examples/helloworld_rx/helloworld_rx.ino
+https://github.com/bcelenza/weather-station/blob/a8a094f405e3c4adec20d48e72046fbf9c04520c/app.ino
+https://github.com/cquartier/particle-feeder/blob/869a46045fe664299282121f3839b5439d3d0dde/main.ino
+https://github.com/drcheap/spark-tcptest/blob/master/tcptest.ino
+https://openhomeautomation.net/cloud-data-logger-particle-photon/
+https://www.hackster.io/team-falafel-software5/particle-photon-oscilloscope-d0e05d
+https://community.particle.io/t/is-using-tcpserver-unstable-or-is-it-my-code/8674
+https://community.particle.io/t/tcp-server-and-client-example-socket-programs-d7-on-please/11307
+http://www.instructables.com/id/Datalogging-with-Spark-Core-Google-Drive/?ALLSTEPS
+https://community.particle.io/t/photon-system-sleep-operation-is-troublesome/13541
+
+
+NumPy:
+http://www.dyinglovegrape.com/data_analysis/part1/1da3.php
+http://stackoverflow.com/questions/25665285/plot-from-a-file
+http://cs231n.github.io/python-numpy-tutorial/
+http://scipy.github.io/old-wiki/pages/NumPy_for_Matlab_Users.html
+https://docs.scipy.org/doc/scipy/reference/generated/scipy.signal.find_peaks_cwt.html
+http://stackoverflow.com/questions/9111711/get-coordinates-of-local-maxima-in-2d-array-above-certain-value
+https://blog.ytotech.com/2015/11/01/findpeaks-in-python/
+
+
+Rain Machine:
+http://lifehacker.com/5864611/make-your-own-shower-head-from-pvc-for-a-relaxing-showering-experience
+http://www.instructables.com/id/Rainforest-Shower-Head/?ALLSTEPS
+http://physics.stackexchange.com/questions/63951/explanation-for-breaking-up-of-a-stream-of-water-into-droplets	
